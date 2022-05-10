@@ -1,10 +1,10 @@
 ### Hi, Namaste 👋
 
-[![github](https://img.shields.io/github/followers/yashdiniz?style=social)](https://nodesource.com/products/nsolid)
+📫 [![github](https://img.shields.io/github/followers/yashdiniz?style=social)](https://nodesource.com/products/nsolid) 
+[![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fyashdiniz)](https://twitter.com/yashdiniz)
 
-📫 [![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fyashdiniz)](https://twitter.com/yashdiniz)
-
-✨ I'm Yash Diniz. GNU/Linux and Vim. Prefers Alpine on Docker. Share your dotfiles with me? 😄.
+✨ I'm Yash Diniz. GNU/Linux and Vim user. Prefers Alpine on Docker.
+Know what? Share your dotfiles with me, open to sharing and customising my setup! 😄
 
 Avid reader, researching about GANs, Deep Reinforcement Learning, and system architectures in general.
 

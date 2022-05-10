@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&hide=contribs,prs)
+[![I'm just showing off at this point](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

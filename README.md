@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&hide=contribs,prs)
+[![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yashdiniz/yashdiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

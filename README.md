@@ -3,8 +3,7 @@
 📫 [![github](https://img.shields.io/github/followers/yashdiniz?style=social)](https://nodesource.com/products/nsolid) 
 [![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fyashdiniz)](https://twitter.com/yashdiniz)
 
-✨ I'm Yash Diniz. GNU/Linux and Vim user. Prefers Alpine on Docker.
-Know what? Share your dotfiles with me, open to sharing and customising my setup! 😄
+✨ I'm Yash Diniz. GNU/Linux and Vim user. Prefers Alpine on Docker. Let's share dotfiles and customise each other's setups! 😄
 
 Avid reader, researching about GANs, Deep Reinforcement Learning, and system architectures in general.
 

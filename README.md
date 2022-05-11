@@ -5,7 +5,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  <!-- Old school. There may be a better way to introduce spaces without nbsp -->
 [![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fyashdiniz)](https://twitter.com/yashdiniz)
 
-✨ I'm Yash Diniz. GNU/Linux and Vim user. Prefers Alpine on Docker. 
+✨ I'm Yash Diniz. GNU/Linux and Vim enthusiast. Prefers Alpine on Docker. 
 <!-- Let's share dotfiles and customise each other's setups! 😄 --> <!-- idk, sounds too fruity -->
 
 Avid reader, researching about GANs, Deep Reinforcement Learning, and system architectures in general.

@@ -15,9 +15,10 @@ Avid reader, researching about GANs, Deep Reinforcement Learning, and system arc
 - 🤔 Looking for help with Mathematics in general. (and yes, brownie points if you help improve my social skills)
 - ⚡ Fun fact: I'm a good listener, everyone tells me that.
 
-![I'm just showing off at this point](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dark&layout=compact)
+![I'm just showing off at this point](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dark&layout=compact) ![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&show_icons=true&theme=dark&count_private=true)
 
-![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&show_icons=true&theme=dark&count_private=true)
+[![Codewars Honor of yashdiniz](https://www.codewars.com/users/yashdiniz/badges/large)](https://www.codewars.com/users/yashdiniz)
+
 
 #### Attribution
 1. [anuraghazra's `github-readme-stats`](https://github.com/anuraghazra/github-readme-stats)

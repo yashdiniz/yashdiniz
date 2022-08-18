@@ -8,16 +8,15 @@
 ✨ I'm Yash Diniz. GNU/Linux and Vim enthusiast. Prefers Alpine on Docker. 
 <!-- Let's share dotfiles and customise each other's setups! 😄 --> <!-- idk, sounds too fruity -->
 
-Avid reader, researching about and working on system architecture.
-
 - 🔭 At [Spyke Social](https://spy.ke)
 - 🌱 Exploring project management, microservices, system architecture, design and optimisation.
 - 🤔 Looking for help with Mathematics in general. (and yes, brownie points if you help improve my social skills)
+- 💬 I like talking about software design and deep learning.
 <!-- - ⚡ Fun fact: I'm a good listener, everyone tells me that. -->
 
-![I❤️Go, exploring Rust](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdiniz&show_icons=true&theme=dark&layout=compact) ![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&show_icons=true&theme=dark&count_private=true)
-
-[![Codewars Honor of yashdiniz](https://www.codewars.com/users/yashdiniz/badges/large)](https://www.codewars.com/users/yashdiniz)
+![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&show_icons=true&theme=dark&count_private=true)
+<!-- ![I❤️Go, exploring Rust](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdiniz&show_icons=true&theme=dark&layout=compact) -->
+<!-- [![Codewars Honor of yashdiniz](https://www.codewars.com/users/yashdiniz/badges/large)](https://www.codewars.com/users/yashdiniz) -->
 
 
 #### Attribution

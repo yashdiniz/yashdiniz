@@ -1,4 +1,4 @@
-## Hi, Namaste 👋
+## Hey 👋
 
 📫 <span>&nbsp;&nbsp;</span>  <!-- Old school. There may be a better way to introduce spaces without nbsp -->
 ![github](https://img.shields.io/github/followers/yashdiniz?style=social) 
@@ -8,14 +8,14 @@
 ✨ I'm Yash Diniz. GNU/Linux and Vim enthusiast. Prefers Alpine on Docker. 
 <!-- Let's share dotfiles and customise each other's setups! 😄 --> <!-- idk, sounds too fruity -->
 
-Avid reader, researching about GANs, Deep Reinforcement Learning, and system architectures in general.
+Avid reader, researching about and working on system architecture.
 
 - 🔭 At [Spyke Social](https://spy.ke)
 - 🌱 Exploring project management, microservices, system architecture, design and optimisation.
 - 🤔 Looking for help with Mathematics in general. (and yes, brownie points if you help improve my social skills)
-- ⚡ Fun fact: I'm a good listener, everyone tells me that.
+<!-- - ⚡ Fun fact: I'm a good listener, everyone tells me that. -->
 
-![I'm just showing off at this point](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dark&layout=compact) ![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&show_icons=true&theme=dark&count_private=true)
+![I❤️Go, exploring Rust](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdiniz&show_icons=true&theme=dark&layout=compact) ![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&show_icons=true&theme=dark&count_private=true)
 
 [![Codewars Honor of yashdiniz](https://www.codewars.com/users/yashdiniz/badges/large)](https://www.codewars.com/users/yashdiniz)
 

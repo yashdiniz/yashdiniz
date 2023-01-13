@@ -8,7 +8,7 @@
 [![HitCount](https://hits.dwyl.com/yashdiniz/yashdiniz.svg?style=flat)](http://hits.dwyl.com/yashdiniz/yashdiniz)
 
 
-✨ I'm Yash Diniz. I develop apps in NodeJS and Go. I use GNU/Linux and (neo)vim as my daily driver. Prefer Alpine on Docker. 
+✨ I'm Yash Diniz. I use GNU/Linux and (neo)vim as my daily driver. Prefer Alpine on Docker. 
 <!-- Let's share dotfiles and customise each other's setups! 😄 --> <!-- idk, sounds too fruity -->
 
 - 🔭 At [Spyke Social](https://spy.ke)

@@ -1,14 +1,14 @@
 ## Hey 👋
 
-📫 <span>&nbsp;&nbsp;</span>  <!-- Old school. There may be a better way to introduce spaces without nbsp -->
+📫 <span>&nbsp;&nbsp;</span>  <!-- Old school. There may be a better way to introduce spaces without nbsp? -->
 ![github](https://img.shields.io/github/followers/yashdiniz?style=social) 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  <!-- Old school. There may be a better way to introduce spaces without nbsp -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 [![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fyashdiniz)](https://twitter.com/yashdiniz)
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  <!-- Old school. There may be a better way to introduce spaces without nbsp -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 [![HitCount](https://hits.dwyl.com/yashdiniz/yashdiniz.svg?style=flat)](http://hits.dwyl.com/yashdiniz/yashdiniz)
 
 
-✨ I'm Yash Diniz. GNU/Linux and Vim enthusiast. Prefers Alpine on Docker. 
+✨ I'm Yash Diniz. I develop apps in NodeJS and Go. I use GNU/Linux and (neo)vim as my daily driver. Prefer Alpine on Docker. 
 <!-- Let's share dotfiles and customise each other's setups! 😄 --> <!-- idk, sounds too fruity -->
 
 - 🔭 At [Spyke Social](https://spy.ke)
@@ -17,7 +17,7 @@
 - 💬 I like talking about software design and deep learning.
 <!-- - ⚡ Fun fact: I'm a good listener, everyone tells me that. -->
 
-![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&show_icons=true&theme=dark&count_private=true)
+![GitHub stats of yashdiniz](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashdiniz&show_icons=true&theme=dark&count_private=true)
 <!-- ![I❤️Go, exploring Rust](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdiniz&show_icons=true&theme=dark&layout=compact) -->
 <!-- [![Codewars Honor of yashdiniz](https://www.codewars.com/users/yashdiniz/badges/large)](https://www.codewars.com/users/yashdiniz) -->
 

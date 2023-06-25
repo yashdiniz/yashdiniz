@@ -11,7 +11,7 @@
 ✨ I'm Yash Diniz. I use GNU/Linux and (neo)vim as my daily driver. Prefer Alpine on Docker. 
 <!-- Let's share dotfiles and customise each other's setups! 😄 --> <!-- idk, sounds too fruity -->
 
-- 🔭 At [Spyke Social](https://spy.ke)
+- 🔭 At [Spyke Social](https://spyke.social)
 - 🌱 Exploring project management, microservices, system architecture, design and optimisation.
 - 🤔 Looking for help with Mathematics in general. (and yes, brownie points if you help improve my social skills)
 - 💬 I like talking about software design and deep learning.

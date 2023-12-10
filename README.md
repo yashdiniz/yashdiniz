@@ -8,16 +8,17 @@
 [![HitCount](https://hits.dwyl.com/yashdiniz/yashdiniz.svg?style=flat)](http://hits.dwyl.com/yashdiniz/yashdiniz)
 
 
-✨ I'm Yash Diniz. I use GNU/Linux and (neo)vim as my daily driver. Prefer Alpine on Docker. 
-<!-- Let's share dotfiles and customise each other's setups! 😄 --> <!-- idk, sounds too fruity -->
+✨ I'm Yash Diniz. I use GNU/Linux and (neo)Vim as my daily driver. I prefer Alpine on Docker. 
+👨‍💻 My mind thinks a lot about Systems and software.
+<!-- Let's share dotfiles and customize each other's setups! 😄 --> <!-- idk, sounds too fruity -->
 
 - 🔭 At [Spyke Social](https://spyke.social)
-- 🌱 Exploring project management, microservices, system architecture, design and optimisation.
+- 🌱 Exploring data engineering, system architecture, design & optimization, and trying out project management.
 - 🤔 Looking for help with Mathematics in general. (and yes, brownie points if you help improve my social skills)
 - 💬 I like talking about software design and deep learning.
 <!-- - ⚡ Fun fact: I'm a good listener, everyone tells me that. -->
 
-[![GitHub stats of yashdiniz](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashdiniz&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats of yashdiniz](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashdiniz&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![I❤️Go, exploring Rust](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdiniz&show_icons=true&theme=dark&layout=compact) -->
 <!-- [![Codewars Honor of yashdiniz](https://www.codewars.com/users/yashdiniz/badges/large)](https://www.codewars.com/users/yashdiniz) -->
 

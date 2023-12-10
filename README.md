@@ -9,8 +9,8 @@
 
 
 ✨ I'm Yash Diniz. I use GNU/Linux and (neo)Vim as my daily driver. I prefer Alpine on Docker. 
-👨‍💻 My mind thinks a lot about Systems and software.
 <!-- Let's share dotfiles and customize each other's setups! 😄 --> <!-- idk, sounds too fruity -->
+👨‍💻 My mind thinks a lot about Systems and software.
 
 - 🔭 At [Spyke Social](https://spyke.social)
 - 🌱 Exploring data engineering, system architecture, design & optimization, and trying out project management.

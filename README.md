@@ -15,7 +15,7 @@
 - 🔭 At [Spyke Social](https://spyke.social)
 - 🌱 Exploring data engineering, system architecture, design & optimization, and trying out project management.
 - 🤔 Looking for help with Mathematics in general. (and yes, brownie points if you help improve my social skills)
-- 💬 I like talking about software design and deep learning.
+- 💬 I like talking about software design and anything about machine intelligence.
 <!-- - ⚡ Fun fact: I'm a good listener, everyone tells me that. -->
 
 [![GitHub stats of yashdiniz](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashdiniz&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)

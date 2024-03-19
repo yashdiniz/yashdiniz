@@ -13,12 +13,12 @@
 👨‍💻 My mind thinks a lot about Software, Systems, and Cloud.
 
 - 🔭 At [Spyke Social](https://spyke.social)
-- 🌱 Exploring data engineering, system architecture, design & optimization, and trying out project management.
-- 🤔 Looking for help with Mathematics in general. (and yes, brownie points if you help improve my social skills)
+- 🌱 Exploring data engineering, software architecture, design & optimization, DevOps, and trying out project management.
+- 🤔 Looking for help with Mathematics in general. (and yes, brownie points if you help me with my social skills)
 - 💬 I like talking about software design and anything about machine intelligence.
 <!-- - ⚡ Fun fact: I'm a good listener, everyone tells me that. -->
 
-[![GitHub stats of yashdiniz](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashdiniz&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![I❤️Go, exploring Rust](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdiniz&show_icons=true&theme=dark&layout=compact) -->
 <!-- [![Codewars Honor of yashdiniz](https://www.codewars.com/users/yashdiniz/badges/large)](https://www.codewars.com/users/yashdiniz) -->
 

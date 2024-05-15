@@ -13,7 +13,7 @@
 👨‍💻 My mind thinks a lot about Software, Systems, and Cloud.
 
 - 🔭 At [Spyke Social](https://spyke.social)
-- 🌱 Exploring data engineering, software architecture, design & optimization, DevOps, and trying out project management.
+- 🌱 Exploring data engineering, software architecture, design & optimization. Trying out DevOps and project management.
 - 🤔 Looking for help with Mathematics in general. (and yes, brownie points if you help me with my social skills)
 - 💬 I like talking about software design and anything about machine intelligence.
 <!-- - ⚡ Fun fact: I'm a good listener, everyone tells me that. -->

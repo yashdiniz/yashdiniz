@@ -13,7 +13,7 @@
 👨‍💻 My mind thinks a lot about Software, Systems, and Cloud.
 
 <!-- - 🔭 At [Spyke Social](https://spyke.social) -->
-- 🔭 Software Engineer, freelancer.
+- 🔭 Software Engineer, Analyst at [Blue Altair](https://bluealtair.com).
 - 🌱 Exploring data engineering, software architecture, design & optimization.
 - 🤔 Looking for help with Mathematics in general. (and yes, brownie points if you help me with my social skills)
 - 💬 I like talking about software design.

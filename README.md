@@ -5,7 +5,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 [![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fyashdiniz)](https://twitter.com/yashdiniz)
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-[![HitCount](https://hits.dwyl.com/yashdiniz/yashdiniz.svg?style=flat)](http://hits.dwyl.com/yashdiniz/yashdiniz)
+[![HitCount](https://komarev.com/ghpvc/?username=yashdiniz&style=flat&label=Hits&base=636&abbreviated=true)](https://komarev.com/ghpvc)
 
 
 ✨ I'm Yash Diniz. I use GNU/Linux as my daily driver and prefer Alpine on Docker. 
@@ -19,7 +19,7 @@
 - 💬 I like talking about software design.
 <!-- - ⚡ Fun fact: I'm a good listener, everyone tells me that. -->
 
-[![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub stats of yashdiniz](https://github-readme-stats.vercel.app/api?username=yashdiniz&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![I❤️Go, exploring Rust](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdiniz&show_icons=true&theme=dark&layout=compact) -->
 <!-- [![Codewars Honor of yashdiniz](https://www.codewars.com/users/yashdiniz/badges/large)](https://www.codewars.com/users/yashdiniz) -->
 
